@@ -1,0 +1,5 @@
+package interfaces
+
+trait Controleur {
+
+}
